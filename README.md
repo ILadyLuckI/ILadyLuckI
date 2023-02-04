@@ -61,6 +61,11 @@
   </p>
 </div>
 
+---
+
+<p align="center">🏆<strong>Eu nunca perco! Eu ganho ou aprendo!</strong>🏆</p>
+
+
 
 
 
