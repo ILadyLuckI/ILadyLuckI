@@ -13,7 +13,7 @@
 <h2>Conheça alguns projetos e cursos que ja conclui na Alura:</h2>
 
 <a href="https://cursos.alura.com.br/vitrinedev/dai-koblitz">
-  <img alt="logo vitrine.dev" src="https://cursos.alura.com.br/assets/images/vitrine/logo-vitrinedev.svg"  width="150" heigth="100" style="background-color:#0d117">
+  <img alt="logo vitrine.dev" src="https://cursos.alura.com.br/assets/images/vitrine/logo-vitrinedev.svg"  width="150" heigth="100" style="background-color:#0d1117">
 </a>
 <p>*Estou revisando meus códigos, em breve vou upar os projetos na vitrine com link para facilitar a sua visualização! Enquanto isso, você pode conferir os cursos e formações que ja concluí!</p>
 
