@@ -10,13 +10,11 @@
 </p>
 
 <!--Sessão de Projetos e Cursos que já foram concluídos pela Alura-->
-<h2>Conheça alguns projetos e cursos que ja conclui na Alura:</h2>
+<h2>Conheça alguns projetos e cursos que ja concluí na Alura:</h2>
 
 <a href="https://cursos.alura.com.br/vitrinedev/dai-koblitz">
   <img alt="logo vitrine.dev" src="https://user-images.githubusercontent.com/69736274/218629510-49d53efc-3dab-4625-9376-4c21f9900022.png"  width="150" heigth="100">
 </a>
-
-<p>*Estou revisando meus códigos, em breve vou upar os projetos na vitrine com link para facilitar a sua visualização! Enquanto isso, você pode conferir os cursos e formações que ja concluí!</p>
 
 <br>
 
@@ -57,9 +55,8 @@
 <!--Sessão contendo algumas observações que achei relevantes-->
 <div align="center">
   <h2>Observações:</h2>
-  <p>**Fiz um "hard reset" no meu Github, vou selecionar alguns projetos e colocar novamente aqui, mas dessa vez commitados e com ReadMe bacana**
   <p>
-    :construction: Projeto em construção :construction:
+    :construction: Portfólio em construção :construction:
   </p>
 </div>
 
