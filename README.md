@@ -3,7 +3,7 @@
 
 <p>
   <em>🍀Sou estudante de Análise e Desenvolvimento de Sistemas (EAD) e estou no terceiro período!<br>
-      💼Estou estagiando na empresa JClan
+      💼Estou estagiando na empresa JClan 
       💖Eu amo coisas relacionadas a tecnologia e quanto mais aprendo mais curiosa fico.<br>
       🧐No momento estou em transição de carreira e focada em aprender sobre front-end.<br>
       🎮Meus hobbies incluem jogar Fortnite, ir para a academia, brincar com minhas gatinhas, ficar com a família.
