@@ -2,8 +2,8 @@
 <h1 align="center">Olá Mundo!!! Eu sou a Daiana!! 👋🍀</h1>
 
 <p>
-  <em>🍀Sou estudante de Análise e Desenvolvimento de Sistemas (EAD) e estou no terceiro período!<br>
-      💼Estou estagiando na empresa JClan 
+  <em>🍀Sou estudante de Análise e Desenvolvimento de Sistemas (EAD) e estou no quarto período!<br>
+      💼Estou estagiando na empresa JClan<br> 
       💖Eu amo coisas relacionadas a tecnologia e quanto mais aprendo mais curiosa fico.<br>
       🧐No momento estou em transição de carreira e focada em aprender sobre front-end.<br>
       🎮Meus hobbies incluem jogar Fortnite, ir para a academia, brincar com minhas gatinhas, ficar com a família.
@@ -47,6 +47,7 @@
   <img align="left" alt="logo CC3" src="https://user-images.githubusercontent.com/69736274/216783963-94cbda61-f6cb-4fed-b234-5af29db3aea9.png" width="100">
   <img align="left" alt="logo VSCode" src="https://user-images.githubusercontent.com/69736274/216784854-cc3dba03-6ade-4232-ada2-ee9bcc51e6e2.png" width="100">
   <img align="left" alt="logo PowerShell" src="https://user-images.githubusercontent.com/69736274/216784857-3f8e1c3b-dbc5-45e2-99bd-530887236b40.png" width="100"> 
+  <img align="left" alt="logo Vue.Js" src="https://github.com/ILadyLuckI/ILadyLuckI/assets/69736274/f197399a-b5d0-436b-86a3-6c87f6863234" width="100"> 
 </div>
 
 <br><br><br><br><br><br><br><br><br><br>
