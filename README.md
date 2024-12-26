@@ -2,10 +2,10 @@
 <h1 align="center">Olá Mundo!!! Eu sou a Daiana!! 👋🍀</h1>
 
 <p>
-  <em>🍀Sou estudante de Análise e Desenvolvimento de Sistemas (EAD) e estou no quarto período!<br>
+  <em>🍀Sou estudante de Análise e Desenvolvimento de Sistemas (EAD) e estou no quinto período!<br>
       💼Estou estagiando na empresa JClan<br> 
       💖Eu amo coisas relacionadas a tecnologia e quanto mais aprendo mais curiosa fico.<br>
-      🧐No momento estou em transição de carreira e focada em aprender sobre front-end.<br>
+      🧐No momento estou em transição de carreira e focada em aprender o básico em Full-Stack.<br>
       🎮Meus hobbies incluem jogar Fortnite, ir para a academia, brincar com minhas gatinhas, ficar com a família.
   </em>
 </p>
