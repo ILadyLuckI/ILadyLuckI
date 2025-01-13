@@ -2,20 +2,13 @@
 <h1 align="center">Olá Mundo!!! Eu sou a Daiana!! 👋🍀</h1>
 
 <p>
-  <em>🍀Sou estudante de Análise e Desenvolvimento de Sistemas (EAD) e estou no quinto período!<br>
-      💼Estou estagiando na empresa JClan<br> 
+  <em>🍀Sou Análista e Desenvolvedora de Sistemas!<br>
+      💼Trabalho na empresa Jclan como Programadora Junior.<br> 
       💖Eu amo coisas relacionadas a tecnologia e quanto mais aprendo mais curiosa fico.<br>
-      🧐No momento estou em transição de carreira e focada em aprender o básico em Full-Stack.<br>
+      🧐Meu foco no momento é desenvolver o melhor código possível no meu local de trabalho, e desenvolver alguns projetos pessoais que comecei e estão meio perdidos 😅.<br>
       🎮Meus hobbies incluem jogar Fortnite, ir para a academia, brincar com minhas gatinhas, ficar com a família.
   </em>
 </p>
-
-<!--Sessão de Projetos e Cursos que já foram concluídos pela Alura-->
-<h2>Conheça alguns projetos e cursos que ja concluí na Alura:</h2>
-
-<a href="https://cursos.alura.com.br/vitrinedev/dai-koblitz">
-  <img alt="logo vitrine.dev" src="https://user-images.githubusercontent.com/69736274/218629510-49d53efc-3dab-4625-9376-4c21f9900022.png"  width="100" heigth="50">
-</a>
 
 <br>
 
